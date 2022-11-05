@@ -1,2 +1,3 @@
 # Programming-Project
-Tempat share programming project
+# Author    : Muhammad Alvaro Khikman
+# Function  : Tempat Share Programming Project
